@@ -77,7 +77,7 @@ swiper-slide {
       h2{
         font-size: 14px;
         font-weight: 800;
-        text-transform: capitalize;
+        text-transform: uppercase;
         color: #040452;
       }
 
@@ -89,6 +89,7 @@ swiper-slide {
         font-weight: 500;
         gap: 1rem;
         color: #040452;
+        text-transform: uppercase;
 
 
         span{
